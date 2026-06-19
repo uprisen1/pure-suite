@@ -1,0 +1,6 @@
+{
+  "name": "PDF Tool",
+  "description": "Fast, lightweight, client-side, and secure PDF utility for merging, splitting, rotating, protecting, and converting files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
